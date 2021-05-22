@@ -15,7 +15,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Saksham1611/underpass-tech">
+  <a href="https://saksham1611.github.io/underpass-tech/">
     <img src="./logo/logo1.png"alt="Logo" width="200" height="200">
   </a>
 
@@ -24,7 +24,7 @@
   <p align="center">
     Designing Web Architecture for the Underpass-System  
     <br />
-    <a href="https://github.com/Saksham1611/underpass-tech"><strong>Explore the site »</strong></a>
+    <a href="https://saksham1611.github.io/underpass-tech/"><strong>Explore the site »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Saksham1611/underpass-tech">View Model</a>
