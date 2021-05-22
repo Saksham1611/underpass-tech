@@ -1,0 +1,62 @@
+body{
+    background: #333;
+    color: #fff;
+}
+.navbar{
+    border-bottom: rgb(97, 97, 190) 5px solid;
+}
+
+#home-section{
+    background: url(../img/Underpass_Images/nabil-rama-irsI6STeXs8-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 700px;
+}
+
+#home-section .dark-overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height:700px;
+    background: rbga(0,0,0,0.7);
+}
+
+.about-border {
+    position: relative;
+    width: 200px;
+    left: 80px;
+    height: 3px;
+    top:50%;
+    botton:50%;
+    background: #F3C577;
+    margin: 150px relative;
+}
+
+#home-section .home-inner{
+    padding: 150px;
+}
+
+
+.middle{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    bottom:60%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.bottomleft {
+    font-size:large;
+    position: absolute;
+    bottom: 0px;
+    left: 16px;
+  }
+
+
+hr {
+    margin:auto;
+    width: 60%;
+  }
